@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently a CS student at UIUC!
+I like to experiment with AI and the training of different agents that play games
 <!--
 **MGray24/MGray24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
